@@ -1,0 +1,35 @@
+item {
+    name: "black-hat",
+    id: 1,
+    display_name: "black-hat"
+}
+item {
+    name: "body",
+    id: 2,
+    display_name: "body"
+}
+item {
+    name: "bodysurface",
+    id: 3,
+    display_name: "bodysurface"
+}
+item {
+    name: "bodyunder",
+    id: 4,
+    display_name: "bodyunder"
+}
+item {
+    name: "swimmer",
+    id: 5,
+    display_name: "swimmer"
+}
+item {
+    name: "umpire",
+    id: 6,
+    display_name: "umpire"
+}
+item {
+    name: "white-hat",
+    id: 7,
+    display_name: "white-hat"
+}
