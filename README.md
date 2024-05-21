@@ -1,3 +1,5 @@
+Local server for presentation DEMO in CS256: Comparison between YOLOv7 and FasterRCNN on a swimmer dataset.
+
 # Prerequisites
 
 First, clone FasterRCNN model repo:
