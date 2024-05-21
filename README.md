@@ -1,4 +1,5 @@
 # Prerequisites
 
-clone FasterRCNN model repo:
+First, clone FasterRCNN model repo:
+
 ```git clone --quiet https://github.com/tensorflow/models.git```
